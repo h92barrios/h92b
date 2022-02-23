@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @h92b
-- 👀 Novato en HTML, CSS, JavaScript y PHP
+- HTML, CSS, JavaScript y PHP
