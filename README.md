@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @h92b
-- HTML, CSS, SASS, JavaScript, PHP y Python GIT
+- HTML, CSS, SASS, JavaScript, PHP, Python, MySQL y GIT.
